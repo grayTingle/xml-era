@@ -1,0 +1,13 @@
+//this is where you reassign bootstrap variables
+@import "_variables.scss";
+//$name:      $thenameofaboostrapcolor;
+
+$primary:   $myprimary;
+$secondary: $mysecondary;
+$info:      $myaccent;
+
+
+//and so on
+
+//then add the bootstrap library
+@import "../bootstrap/bootstrap";

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <museum>
+        <name>The Met Gallery</name>
+        <addressurl>https://www.youtube.com/watch?v=DiItGE3eAyQ</addressurl>
+        <country>USA</country>
+
+        <arts>
+            <cat name="Modern">
+                <desc>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, consequuntur!</desc>
+            </cat>
+            <cat name="Classic">
+                <desc>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, incidunt laborum explicabo ut quod quisquam.</desc>
+            </cat>
+            <cat name="Abstract">
+                <desc>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt sit eius, dignissimos qui quisquam voluptatem.</desc>
+            </cat>
+        </arts>
+
+        <opendate>09/05/87</opendate>
+    </museum>
+    <museum>
+        <name>Another Museum</name>
+        <addressurl></addressurl>
+        <country>Germany</country>
+
+        <arts>
+            <cat name="Postmodern">
+                <desc>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, consequuntur!</desc>
+            </cat>
+            <cat name="Other">
+                <desc>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, incidunt laborum explicabo ut quod quisquam.</desc>
+            </cat>
+            <cat name="Cubism">
+                <desc>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt sit eius, dignissimos qui quisquam voluptatem.</desc>
+            </cat>
+        </arts>
+        <opendate>07/34/2085</opendate>
+    </museum>
+    <museum>
+        <name>A Third Museum</name>
+        <addressurl>https://www.youtube.com/watch?v=DiItGE3eAyQ</addressurl>
+        <country>France</country>
+
+        <arts>
+            <cat name="Romanticism">
+                <desc>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, consequuntur!</desc>
+            </cat>
+            <cat name="Barroque">
+                <desc>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, incidunt laborum explicabo ut quod quisquam.</desc>
+            </cat>
+            <cat name="Rococo">
+                <desc>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt sit eius, dignissimos qui quisquam voluptatem.</desc>
+            </cat>
+        </arts>
+
+        <opendate>09/05/87</opendate>
+    </museum>
+</project>
